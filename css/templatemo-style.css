@@ -505,6 +505,8 @@ http://www.templatemo.com/tm-515-eatery
 
   .team-thumb img {
     transition: 0.5s 0.2s;
+    border: 5px solid black; 
+    border-radius: 10px;
   }
 
   .team-thumb:hover img {
